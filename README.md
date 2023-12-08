@@ -67,7 +67,7 @@ In essence, SURE Trust is not just a learning platform; it's a holistic ecosyste
 
 ## CONCLUSION
 
-"Being part of this incredible journey with SURE Trust has been life-changing. Learning Data Structures and Algorithms in Python was just the beginning. Embracing discipline, engaging in service activities, and attending the enlightening Sunday sessions have shaped me beyond academics. This experience taught me more than just technical skills; it instilled discipline, emphasized service, and enriched my perspective on life. It's not just about learning; it's about becoming a responsible and compassionate individual. As this chapter concludes, I carry forward not only knowledge but a sense of duty and a commitment to making a positive impact. SURE Trust's holistic approach has prepared me not just for a career but for life's challenges, and I'm grateful for the invaluable lessons learned."
+"For me Being part of this incredible journey with SURE Trust has been life-changing. Learning Data Structures and Algorithms in Python was just the beginning. Embracing discipline, engaging in service activities, and attending the enlightening Sunday sessions have shaped me beyond academics. This experience taught me more than just technical skills; it instilled discipline, emphasized service, and enriched my perspective on life. It's not just about learning; it's about becoming a responsible and compassionate individual. As this chapter concludes, I carry forward not only knowledge but a sense of duty and a commitment to making a positive impact. SURE Trust's holistic approach has prepared me not just for a career but for life's challenges, and I'm grateful for the invaluable lessons learned."
 
 
 ### Mini Projects and Final Project
