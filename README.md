@@ -29,4 +29,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Project: Queue Implementation      | [CLICK HERE](https://github.com/hemalatha331/Assignment-3) |
 | Mini Project: Recursive implementation(Factorial,Fibonacci)	            | [CLICK HERE](https://github.com/hemalatha331/Assignment_4) |
 | Mini Project: BinaryTree And Traversals			    | [CLICK HERE](https://github.com/hemalatha331/ASSIGNMENT_6) |
-| Final Project: PATH FINDER		    | [CLICK HERE]() |
+| Final Project: PATH FINDER		    | [CLICK HERE](https://github.com/hemalatha331/PATH-FINDER) |
