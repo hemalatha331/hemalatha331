@@ -5,7 +5,7 @@
    <img src='https://user-images.githubusercontent.com/73131499/166115643-d3187f47-d38f-41b2-ae42-5ecbbc60de14.png' />
 
 
-<h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
+<h1 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h1>
   <h2>Data Structures and Algorithms in Python</h2>
 </div>
 
