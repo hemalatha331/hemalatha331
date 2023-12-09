@@ -49,6 +49,21 @@ This daily commitment wasn't just a routine; it was a commitment to self-improve
 
 The dividends reaped from this daily investment were immense. Concepts that once seemed daunting became familiar, and intricate details began to fall into place. The ability to apply learned knowledge in practical scenarios heightened, leading to a more comprehensive understanding of the subject matter.
 
+### Practical Assignments and Final Project
+
+Below is a table summarizing the Practicals and final project completed during the course:
+
+| Description                               | Link                                    |
+|-------------------------------------------|-----------------------------------------|
+| Practical: Searching and Sorting    	            | [CLICK HERE](https://github.com/hemalatha331/Assignment_5) |
+| Practical: LinkedList functionality	            | [CLICK HERE](https://github.com/hemalatha331/Practical/blob/main/linkedlist.py)|
+| Practical: Working of Stacks                  | [CLICK HERE](https://github.com/hemalatha331/Practical/blob/main/stack.py) |
+| Practical: Queue Implementation      | [CLICK HERE](https://github.com/hemalatha331/Assignment-3) |
+| Practical: Recursive implementation(Factorial,Fibonacci)	            | [CLICK HERE](https://github.com/hemalatha331/Assignment_4) |
+| Practical: BinaryTree And Traversals			    | [CLICK HERE](https://github.com/hemalatha331/ASSIGNMENT_6) |
+| Final Project: PATH FINDER		    | [CLICK HERE](https://github.com/hemalatha331/PATH-FINDER) |
+
+
 ## Overall Experience of course
 
 "During my four-month journey in Data Structures and Algorithms in Python, guided by the dedicated Mr. Samuel John, I gained immense knowledge and a renewed passion for learning. Radha Kumari madam conducting Life Skills Training sessions were transformative, equipping us with invaluable tools for life's challenges.
@@ -62,18 +77,3 @@ In essence, SURE Trust isn't just a learning platform but an ecosystem fostering
 ## CONCLUSION
 
 "For me Being part of this incredible journey with SURE Trust has been life-changing. Learning Data Structures and Algorithms in Python was just the beginning. Embracing discipline, engaging in service activities, and attending the enlightening Sunday sessions have shaped me beyond academics. This experience taught me more than just technical skills; it instilled discipline, emphasized service, and enriched my perspective on life. It's not just about learning; it's about becoming a responsible and compassionate individual. As this chapter concludes, I carry forward not only knowledge but a sense of duty and a commitment to making a positive impact. SURE Trust's holistic approach has prepared me not just for a career but for life's challenges, and I'm grateful for the invaluable lessons learned."
-
-
-### Mini Projects and Final Project
-
-Below is a table summarizing the mini projects and final project completed during the course:
-
-| Description                               | Link                                    |
-|-------------------------------------------|-----------------------------------------|
-| Mini Project: Searching and Sorting    	            | [CLICK HERE](https://github.com/hemalatha331/Assignment_5) |
-| Mini Project: LinkedList functionality	            | [CLICK HERE](https://github.com/hemalatha331/Practical/blob/main/linkedlist.py)|
-| Mini Project: Working of Stacks                  | [CLICK HERE](https://github.com/hemalatha331/Practical/blob/main/stack.py) |
-| Mini Project: Queue Implementation      | [CLICK HERE](https://github.com/hemalatha331/Assignment-3) |
-| Mini Project: Recursive implementation(Factorial,Fibonacci)	            | [CLICK HERE](https://github.com/hemalatha331/Assignment_4) |
-| Mini Project: BinaryTree And Traversals			    | [CLICK HERE](https://github.com/hemalatha331/ASSIGNMENT_6) |
-| Final Project: PATH FINDER		    | [CLICK HERE](https://github.com/hemalatha331/PATH-FINDER) |
